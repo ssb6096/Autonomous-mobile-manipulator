@@ -32,3 +32,11 @@ A mobile robot that maps its surroundings with a depth camera and picks and plac
 ## Context
 
 Team project from my M.S. in Electrical Engineering at Rochester Institute of Technology. Also on [Portfolium](https://portfolium.com/entry/autonomous-mobile-manipulator).
+
+## License
+
+This project is released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You may use, modify and share it for **noncommercial purposes**, including academic research, teaching and personal study. Commercial use needs separate permission from the author.
+
+Required Notice: Copyright (c) 2020 Sriparvathi Shaji Bhattathiri
+
+Third-party code in this repository keeps its original license. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
